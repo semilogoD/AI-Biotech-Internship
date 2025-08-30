@@ -1,3 +1,14 @@
 # AI-Biotech-Internship
 
-### The R script titled Class_1b shows exploration and conversion of data types in R 
+#### The R script titled Class_1b shows:
+- exploration
+- conversion of data types in R 
+
+#### Class 1c script practice shows:
+- using if else statements in R
+- converting data types
+- for loops
+
+#### Class 2 Assignment script shows:
+- creating a function
+- Processing data sets using for loops
