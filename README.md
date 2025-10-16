@@ -12,3 +12,9 @@
 #### Class 2 Assignment script shows:
 - creating a function
 - Processing data sets using for loops
+
+#### Class 3b Assignment scriot shows:
+- quality control and normalization of an array express dataset
+- filtering of low variance transcripts
+- using the phenotype information to define target groups 
+
