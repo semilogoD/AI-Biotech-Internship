@@ -13,8 +13,13 @@
 - creating a function
 - Processing data sets using for loops
 
-#### Class 3b Assignment scriot shows:
+#### Class 3b Assignment script shows:
 - quality control and normalization of an array express dataset
 - filtering of low variance transcripts
-- using the phenotype information to define target groups 
+- using the phenotype information to define target groups
+
+#### class3c Assignment script shows:
+- Probe IDs to gene mapping
+- Differential Gene Expression Analysis
+-  Data Visualization
 
